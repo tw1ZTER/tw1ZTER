@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello im Alex, also known as tw1ZTER.
 
 <!--
 **tw1ZTER/tw1ZTER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
