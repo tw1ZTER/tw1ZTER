@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - **Description**: A PvP Tower Defense game where you transmute and deploy elemental Dogs to devise the ultimate strategy for each battle.
 - **Technologies**: Unity, C#, Firebase.
 - **Link**: https://store.steampowered.com/app/3087110/Elemental_Dog_Defense/
-- **Details**: Small project made entirely from start to finish in three months. The goal was to develop an idea from concept to completion and to have a recently created game to showcase to the world.
+- **Details**: Small project with an online firebase database itnegration made entirely from start to finish in three months. The goal was to develop an idea from concept to completion and to have a recently created game to showcase to the world.
 
 ### Chat's Party.
 - **Description**: 
