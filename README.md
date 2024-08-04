@@ -18,12 +18,13 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 
 ## 🎮 Past Projects
 ### Amalgamation: A 2 week project for Pirate Software Game-Jam.
+![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/Amalga.gif)
 - **Description**: A 2D Role-playing/Roguelite horror game, centered around an awoken soul exploring and fighting their way through the Alchemists home, transmuting body parts, items and weapons along the way.
 - **Technologies**: Unity, C#.
 - **Link**: https://tw1zter.itch.io/amalgamation
 - **Details**: Worked as the lead programmer for a game jam, taking on the roles of co-leader and main programmer for the project. With the help of my team members, we created a fun, small game in the span of two weeks.
 
-### Elemental Dof Defense: A 3 month commercial project.
+### Elemental Dog Defense: A 3 month commercial project.
 - **Description**: A PvP Tower Defense game where you transmute and deploy elemental Dogs to devise the ultimate strategy for each battle.
 - **Technologies**: Unity, C#, Firebase.
 - **Link**: https://store.steampowered.com/app/3087110/Elemental_Dog_Defense/
