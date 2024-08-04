@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - **Game Engines**: Unity, Godot(Learning)
 
 ## 📚 What I'm Learning
-- Godot & GDScript with c# integration
+- Godot & GDScript with C# integration
 - Multiplayer game architecture
 
 ## 🌟 What I'm Looking For
@@ -17,15 +17,35 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - Networking with fellow game developers and enthusiasts.
 
 ## 🎮 Past Projects
-### Project 1: Tower Defense Mania
-- **Description**: A classic tower defense game with a twist, featuring dynamic enemy waves and customizable towers.
-- **Technologies**: Unity, C#, Firebase for leaderboard integration
-- **GitHub**: [Tower Defense Mania](https://github.com/your-username/tower-defense-mania)
+### Amalgamation: A 2 week project for Pirate Software Game-Jam.
+- **Description**: A 2D Role-playing/Roguelite horror game, centered around an awoken soul exploring and fighting their way through the Alchemists home, transmuting body parts, items and weapons along the way.
+- **Technologies**: Unity, C#.
+- **Link**: https://tw1zter.itch.io/amalgamation
+- **Details**: Worked as the lead programmer for a game jam, taking on the roles of co-leader and main programmer for the project. With the help of my team members, we created a fun, small game in the span of two weeks.
 
-### Project 2: RPG Quest
-- **Description**: An RPG adventure with rich storytelling and character progression mechanics.
-- **Technologies**: Unreal Engine, Blueprint scripting, 3D modeling in Blender
-- **GitHub**: [RPG Quest](https://github.com/your-username/rpg-quest)
+### Elemental Dof Defense: A 3 month commercial project.
+- **Description**: A PvP Tower Defense game where you transmute and deploy elemental Dogs to devise the ultimate strategy for each battle.
+- **Technologies**: Unity, C#, Firebase.
+- **Link**: https://store.steampowered.com/app/3087110/Elemental_Dog_Defense/
+- **Details**: Small project made entirely from start to finish in three months. The goal was to develop an idea from concept to completion and to have a recently created game to showcase to the world.
+
+### Chat's Party.
+- **Description**: 
+- **Technologies**: 
+- **Link**: 
+- **Details**: 
+
+### PepegaBot.
+- **Description**: 
+- **Technologies**: 
+- **Link**: 
+- **Details**:
+
+### PRiCERPG.
+- **Description**: 
+- **Technologies**: 
+- **Link**: 
+- **Details**: 
 
 ## Contact me
 - [Email] **Aztorres.CE@gmail.com** & <a href="https://www.linkedin.com/in/alex-zepeda-torres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-zepeda-torres/" height="30" width="40" /></a>
