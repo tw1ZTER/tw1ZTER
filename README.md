@@ -1,4 +1,4 @@
-## Hello im Alex, also known as tw1ZTER 
+## Hello there 👋 im Alex, also known as tw1ZTER 
 
 Welcome to my GitHub profile! I'm passionate about game development and constantly exploring new technologies and ideas to create new gaming experiences.
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - **GitHub**: [RPG Quest](https://github.com/your-username/rpg-quest)
 
 ## Contact me
-- [Email] **Aztorres.CE@gmail.com** || <a href="https://www.linkedin.com/in/alex-zepeda-torres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-zepeda-torres/" height="30" width="40" /></a>
+- [Email] **Aztorres.CE@gmail.com** & <a href="https://www.linkedin.com/in/alex-zepeda-torres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-zepeda-torres/" height="30" width="40" /></a>
 </p>
 
 
