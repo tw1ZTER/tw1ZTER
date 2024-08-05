@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - **Details**: N/A
 
 ### WoWM+ Calculator: A prototype project to explore API's directly.
-- **Description**: Small HTML/CSS & Javascript project that uses the [https](https://raider.io/) API to calculate scores for a minigame inside World of Warcraft.
+- **Description**: Small HTML/CSS & Javascript project that uses the [Raider.io](https://raider.io/) API to calculate scores for a minigame inside World of Warcraft.
 - **Technologies**: Javascript, HTML/CSS.
 - **Link**: N/A
 - **Details**: N/A
