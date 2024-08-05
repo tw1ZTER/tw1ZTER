@@ -31,29 +31,31 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - **Link**: https://store.steampowered.com/app/3087110/Elemental_Dog_Defense/
 - **Details**: Small project with an online firebase database itnegration made entirely from start to finish in three months. The goal was to develop an idea from concept to completion and to have a recently created game to showcase to the world.
 
-### Chat's Party.
-- **Description**: 
-- **Technologies**: 
-- **Link**: 
-- **Details**: 
+### Chat's Party: A prototype project to explore API's inside Unity.
+![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/ChatsParty.png)
+- **Description**: A prototype Unity game that explores the functionalities of integrating direct Twitch live chat into the game.
+- **Technologies**: Unity, C#, Twitch API.
+- **Link**: https://tw1zter.itch.io/chats-party
+- **Details**: Project on hiatus until I find an idea I want to explore using this concept.
 
-### PepegaBot.
-- **Description**: 
-- **Technologies**: 
-- **Link**: 
-- **Details**:
+### PepegaBot: A prototype project to explore API's with Discord Bots.
+- **Description**: Small Discord bot that explores the general functionalities of Discord Bots.
+- **Technologies**: Javascript, Node.JS, Discord API.
+- **Link**: N/A
+- **Details**: N/A
 
-### WoWM+ Calculator.
-- **Description**: 
-- **Technologies**: 
-- **Link**: 
-- **Details**:
+### WoWM+ Calculator: A prototype project to explore API's directly.
+- **Description**: Small HTML/CSS & Javascript project that uses the [https](https://raider.io/) API to calculate scores for a minigame inside World of Warcraft.
+- **Technologies**: Javascript, HTML/CSS.
+- **Link**: N/A
+- **Details**: N/A
 
-### PRiCERPG.
-- **Description**: 
-- **Technologies**: 
-- **Link**: 
-- **Details**: 
+### PRiCERPG: A passion project from a newbie developer - 2019.
+![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/PRiCERPG.gif)
+- **Description**: A sidescroller RPG with a strong emphasis on politically incorrect humor and the concept of evolution of consciousness and emotions.
+- **Technologies**: RPG Maker VX Ace.
+- **Link**: https://store.steampowered.com/app/963370/PRiCERPG/
+- **Details**: My first game, created by a complete newbie who didn't know anything about programming or game development, thinking they were making the next Lisa or Undertale game..
 
 ## Contact me
 - [Email] **Aztorres.CE@gmail.com** & <a href="https://www.linkedin.com/in/alex-zepeda-torres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-zepeda-torres/" height="30" width="40" /></a>
