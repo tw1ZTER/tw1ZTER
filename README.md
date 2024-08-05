@@ -1,6 +1,6 @@
 ## Hello there 👋 im Alex, also known as tw1ZTER 
 
-Welcome to my GitHub profile! I'm passionate about game development and constantly exploring new technologies and ideas to create new gaming experiences.
+Welcome to my GitHub profile! I'm passionate about game development and constantly exploring technologies and ideas to create new gaming experiences.
 
 ## 🔧 Skills & App Knowledge
 - **Languages and Tools**: C#, PHP, HTML/CSS, Git, GitHub, Visual Studio, MySQL, MariaDB, MongoDB, Firebase, Java, NodeJS, JavaScript.
