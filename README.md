@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - **Details**: Worked as the lead programmer for a game jam, taking on the roles of co-leader and main programmer for the project. With the help of my team members, we created a fun, small game in the span of two weeks.
 
 ### Elemental Dog Defense: A 3 month commercial project.
+![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/EDD.gif)
 - **Description**: A PvP Tower Defense game where you transmute and deploy elemental Dogs to devise the ultimate strategy for each battle.
 - **Technologies**: Unity, C#, Firebase.
 - **Link**: https://store.steampowered.com/app/3087110/Elemental_Dog_Defense/
