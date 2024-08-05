@@ -51,11 +51,11 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - **Details**: N/A
 
 ### PRiCERPG: A passion project from a newbie developer - 2019.
-![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/PRiCERPG.gif)
+![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/PRiCERPG2.gif)
 - **Description**: A sidescroller RPG with a strong emphasis on politically incorrect humor and the concept of evolution of consciousness and emotions.
 - **Technologies**: RPG Maker VX Ace.
 - **Link**: https://store.steampowered.com/app/963370/PRiCERPG/
-- **Details**: My first game, created by a complete newbie who didn't know anything about programming or game development, thinking they were making the next Lisa or Undertale game..
+- **Details**: My first game, created by a complete newbie who didn't know anything about programming or game development, thinking they were making the next Lisa or Undertale game.
 
 ## Contact me
 - [Email] **Aztorres.CE@gmail.com** & <a href="https://www.linkedin.com/in/alex-zepeda-torres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-zepeda-torres/" height="30" width="40" /></a>
