@@ -42,6 +42,12 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - **Link**: 
 - **Details**:
 
+### WoWM+ Calculator
+- **Description**: 
+- **Technologies**: 
+- **Link**: 
+- **Details**:
+
 ### PRiCERPG.
 - **Description**: 
 - **Technologies**: 
