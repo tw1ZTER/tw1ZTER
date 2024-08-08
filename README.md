@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about game development and constantly exploring technologies and ideas to create new gaming experiences.
 
 ## 🔧 Skills & App Knowledge
-- **Languages and Tools**: C#, PHP, HTML/CSS, Git, GitHub, Visual Studio, MySQL, MariaDB, MongoDB, Firebase, Java, NodeJS, JavaScript.
+- **Languages and Tools**: C#, PHP, HTML/CSS, Git, GitHub, Visual Studio, MySQL, MariaDB, MongoDB, Firebase, Java, NodeJS, JavaScript, Trello.
 - **Game Engines**: Unity, Godot(Learning)
 
 ## 📚 What I'm Learning and Working on
