@@ -6,9 +6,10 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - **Languages and Tools**: C#, PHP, HTML/CSS, Git, GitHub, Visual Studio, MySQL, MariaDB, MongoDB, Firebase, Java, NodeJS, JavaScript.
 - **Game Engines**: Unity, Godot(Learning)
 
-## 📚 What I'm Learning
-- Godot & GDScript with C# integration
-- Multiplayer game architecture
+## 📚 What I'm Learning and Working on
+- Godot & GDScript with C# integration.
+- Multiplayer game architecture.
+- Small Unity Multiplayer and Platform projects.
 
 ## 🌟 What I'm Looking For
 - Learning and working for game development.
