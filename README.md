@@ -18,6 +18,13 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - Networking with fellow game developers and enthusiasts.
 
 ## 🎮 Past Projects
+### 2025 - Forsen Jump King Adventures: A 2 week project Forsen fangame inspired by Jump King 
+![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/JumpKing.gif)
+- **Description**: A 2D platform fan game made for the streamer "Forsen" from Twitch.tv.
+- **Technologies**: Unity, C#.
+- **Link**: [Forsen Jump King Adventures](https://tw1zter.itch.io/forsen-jump-king-adventures)
+- **Details**: Small fun project designed, made and published in less than 2 weeks.
+  
 ### 2024 - Amalgamation: A 2 week project for Pirate Software Game-Jam.
 ![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/Amalga.gif)
 - **Description**: A 2D Role-playing/Roguelite horror game, centered around an awoken soul exploring and fighting their way through the Alchemists home, transmuting body parts, items and weapons along the way.
