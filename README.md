@@ -8,9 +8,8 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 
 ## 📚 What I'm Learning and Working on
 - Multiplayer game architecture.
-- DOTS/Jobs advanced Netcode architecture.
-- Unity 6 VFX.
-- Small Unity Multiplayer and Platform projects.
+- Unity 6.
+- Small Unity projects.
 
 ## 🌟 What I'm Looking For
 - Learning and working for game development.
