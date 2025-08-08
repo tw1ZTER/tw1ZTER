@@ -18,6 +18,13 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 - Networking with fellow game developers and enthusiasts.
 
 ## 🎮 Past Projects
+### 2025 - SQUARE UP, SQUARY! - Game Jam submission for GMTK Jam 
+![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/Squary.gif)
+- **Description**: A 2D Flappy bird like game about Squary, a square whos falling into a star.
+- **Technologies**: Unity, C#.
+- **Link**: [SQUARE UP, SQUARY!](https://tw1zter.itch.io/square-up-squary)
+- **Details**: Game Jam submission for GMTK Jam 2025, made in 2 days alone.
+
 ### 2025 - Forsen Jump King Adventures: A 2 week project Forsen fangame inspired by Jump King 
 ![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/JumpKing.gif)
 - **Description**: A 2D platform fan game made for the streamer "Forsen" from Twitch.tv.
