@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about game development and constant
 
 ## 🎮 Past Projects
 ### 2025 - SQUARE UP, SQUARY! - Game Jam submission for GMTK Jam 
-![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/Squary2.gif)
+![image](https://github.com/tw1ZTER/tw1ZTER/blob/main/SquaryUpSquary.gif)
 - **Description**: A 2D Flappy bird like game about Squary, a square whos falling into a star.
 - **Technologies**: Unity, C#.
 - **Link**: [SQUARE UP, SQUARY!](https://tw1zter.itch.io/square-up-squary)
